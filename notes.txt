@@ -1,0 +1,15 @@
+New Game Idea:
+	something to do with epic particle physics?
+	Magic?
+	Attacking?
+
+Beat The Blocks:
+	top down. blocks are coming at you from the top. you need to defend yourself with your magic mortars at the bottom
+	force prestige when you die.
+
+Guns:
+	Triangles: fast attack, burst fire
+	Ring: shoot exploding, magic orbs (from center of ring)
+	Circle: shoot lighting (line rotating on it like a propellor)
+	crossbow: shoots piercing bolts (triangle pointing down, line pointing up)
+	flamethrower: concave trapazoid type beat?
